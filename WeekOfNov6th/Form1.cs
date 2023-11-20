@@ -236,6 +236,6 @@ namespace WeekOfNov6th
             rtbOutput.Text += "\n";
             while(counter != 0) { 
             }
-        }
+        } 
     }
 }
